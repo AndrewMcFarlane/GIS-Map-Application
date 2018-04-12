@@ -6,7 +6,7 @@ ABOUT:
 "Google Maps"-like GIS application. Map data is loaded from an Open Street Map .bin file.
 
 CODE:
-- Back-end progerammed with C++ and STL.
+- Back-end programmed with C++ and STL.
 - Graphics and UI done with Easy GL.
 - Unit tests written with UnitTest++.
 - Debugged using gdb, Netbeans IDE debugging tools, and Valgrind for memory leaks.
